@@ -6,7 +6,8 @@
   "author": "zkan <kan@prontomarketing.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "build:watch": "webpack --watch"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",

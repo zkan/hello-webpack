@@ -5,6 +5,9 @@
   "repository": "git@github.com:zkan/hello-webpack.git",
   "author": "zkan <kan@prontomarketing.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.0",

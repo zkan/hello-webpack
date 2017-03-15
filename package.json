@@ -1,0 +1,12 @@
+{
+  "name": "hello-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zkan/hello-webpack.git",
+  "author": "zkan <kan@prontomarketing.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0"
+  }
+}
